@@ -11,7 +11,7 @@ typeFilters = ["Armor"]
 rarityFilterList = ["Exotic"]
 
 ALL_ITEMS_FILE = "all_listed_items.txt"
-TOKEN = "03769DA7-CAB5-9C4D-80D8-5C0EEE7C0F2FDF1AE6D4-8FC5-4A13-A64D-886D64C391D7";
+TOKEN = "<TOKEN>";
 BASE_URL = "https://api.guildwars2.com/v2";
 MARKET_LISTING_URL = "{}/commerce/listings?access_token={}".format(BASE_URL, TOKEN)
 ITEM_LISTING_URL = "{}/items?access_token={}".format(BASE_URL, TOKEN);
